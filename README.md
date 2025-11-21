@@ -1,1 +1,1 @@
-# react_assignment
+Hi, this is my React assignment. To run it, please download the folder, open a terminal, and navigate into the frontend folder (cd frontend). Once inside, install the required dependencies by running npm install, since the node_modules folder is not included. After the installation is complete, ensure you are still inside the frontend directory and start the application using npm start. Thank you.
